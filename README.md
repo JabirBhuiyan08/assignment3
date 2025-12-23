@@ -15,5 +15,5 @@ in the BeeKeeper Studio user can copy and Peast and run the query. I also add th
 Part 3:
 Theory Questions
 Have a Look: 
-
+https://drive.google.com/file/d/1Itp7BGZDkPRZEt-rxwqaMDIi5zsIJN2c/view?usp=sharing
 
